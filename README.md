@@ -33,7 +33,8 @@ fp.close()
 ```
 
 ### OUTPUT:
-![OUTPUT](<Screenshot 2024-05-13 170545.png>)
+
+![image](https://github.com/sruthiviswanadham/Command--line-arguments-to-count-word/assets/151760421/fa3feff4-e45d-4b4a-a95f-8ec15436159b)
 ![OUTPUT](image.png)
 
 
